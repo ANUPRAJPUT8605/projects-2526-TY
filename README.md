@@ -4,6 +4,5 @@
 
   ## Submission Rules
   - One folder per group named: GroupNo-TopicName
-  - Copy the TEMPLATE folder and rename it
-
+  - Add screenshots of the project too in the folder
   
